@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationbradenton.com/sitemap.xml
